@@ -1,0 +1,4 @@
+# Working files only — never publish
+source/
+__pycache__/
+.DS_Store

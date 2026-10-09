@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-skills",
+  "owner": {
+    "name": "Checkout Page"
+  },
+  "metadata": {
+    "description": "Evidence-based skills for pricing, promotions, and conversion in online stores",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ecommerce-skills",
+      "description": "19 ecommerce skills: pricing, discounts, promotions, price research, product pages, checkout UX, product copy and visuals, store audits, post-purchase, reviews, referrals, plus goal-first skills (increase conversion, AOV, repeat purchases, raise prices) and product-type skills (digital products, subscriptions, events). Rules cite their studies by DOI; the minority without a primary paper on file are marked as practitioner tips.",
+      "source": "./"
+    }
+  ]
+}

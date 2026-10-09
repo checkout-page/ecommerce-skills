@@ -1,0 +1,2684 @@
+{
+ "generated": "2026-08-28",
+ "entries": [
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Rounded prices when quality is the signal",
+   "dois": [
+    "10.1086/678484",
+    "10.1007/s11747-015-0428-7"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Just-below prices signal \"low price\", not \"high quality\"",
+   "dois": [
+    "10.1016/j.jretai.2005.11.001",
+    "10.1086/429600",
+    "10.1086/597215"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Keep tiers on the same left digit if you want upgrades",
+   "dois": [
+    "10.1093/jcr/ucab049"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Gifts beat discounts for pre-orders of distant launches",
+   "dois": [
+    "10.1007/s11747-021-00810-1"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "\"For $0\" converts better than \"free\"",
+   "dois": [
+    "10.1016/j.jretai.2019.11.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Science-based messaging only for utilitarian products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Pick-your-price works; pay-what-you-want doesn't",
+   "dois": [
+    "10.1177/0022242921990351",
+    "10.1016/j.jbusres.2022.02.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Deadlines, not unit caps",
+   "dois": [
+    "10.1002/mar.21489"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Online deadlines drive engagement more than sales",
+   "dois": [
+    "10.1177/00222437221118856"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Don't discount more than 40%",
+   "dois": [
+    "10.1287/isre.2017.0772"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "digital-product-pricing",
+   "rule": "Finding the price level",
+   "dois": [
+    "10.1016/j.ijresmar.2020.04.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Amount off when the full price is 100 or more; percentage off below 100",
+   "dois": [
+    "10.1016/j.jbusres.2015.08.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "State a percentage discount against the sale price (\"was 25% higher\")",
+   "dois": [
+    "10.1509/jmr.16.0599"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "The \"was X% higher\" framing stops working past 100%",
+   "dois": [
+    "10.1093/jcr/ucac006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Store-wide coupons in percent; product-specific coupons in amounts",
+   "dois": [
+    "10.1016/j.jretconser.2020.102340"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Keep the sale price ending the same as the full price",
+   "dois": [
+    "10.1016/j.jretconser.2021.102590"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Don't discount more than 40%",
+   "dois": [
+    "10.1287/isre.2017.0772",
+    "10.1509/jmkr.2005.42.4.383"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Time limits work online mainly for awareness, not immediate sales",
+   "dois": [
+    "10.1177/00222437221118856"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Limit by time, never by quantity",
+   "dois": [
+    "10.1002/mar.21489"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "discounts",
+   "rule": "Put the condition before the reward",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "discounts",
+   "rule": "Red prices look cheaper to men",
+   "dois": [
+    "10.1016/j.jretai.2013.01.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Rounded prices for experiences",
+   "dois": [
+    "10.1086/678484",
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Keep 10\u201330% of sold-out dates visible",
+   "dois": [
+    "10.1016/j.ijresmar.2021.04.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Deadlines, not seat counts",
+   "dois": [
+    "10.1002/mar.21489"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Online deadlines drive engagement more than sales",
+   "dois": [
+    "10.1177/00222437221118856"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Gifts beat discounts for pre-sales of distant events",
+   "dois": [
+    "10.1007/s11747-021-00810-1"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "\"At no cost\" rather than \"free\"",
+   "dois": [
+    "10.1016/j.jretai.2019.11.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Don't discount more than 40%",
+   "dois": [
+    "10.1287/isre.2017.0772"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Amount off at 100 or more; percentage off below",
+   "dois": [
+    "10.1016/j.jbusres.2015.08.014",
+    "10.1509/jmr.16.0599"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Invented, relevant special days lift promotions",
+   "dois": [
+    "10.1002/jcpy.1271"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Human-labeled recommendations for experiences",
+   "dois": [
+    "10.1177/0022242920957347"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Video for experiences",
+   "dois": [
+    "10.1509/jm.13.0521"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "People in the images look away from the camera",
+   "dois": [
+    "10.1093/jcr/ucaa063"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Price below the image",
+   "dois": [
+    "10.1016/j.jretai.2020.02.003"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "event-pricing",
+   "rule": "Pick-your-price works; pay-what-you-want doesn't",
+   "dois": [
+    "10.1177/0022242921990351",
+    "10.1016/j.jbusres.2022.02.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Quantity CTAs for multi-unit products (direct)",
+   "dois": [
+    "10.1287/mksc.2022.1364"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Paid free-shipping membership with a minimum order (direct)",
+   "dois": [
+    "10.1177/00222429231158116"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Store-wide coupons in percent; product-specific in amounts (adjacent: measured on total sales)",
+   "dois": [
+    "10.1016/j.jretconser.2020.102340"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Gift framing instead of a bundle price (adjacent: measured on returns)",
+   "dois": [
+    "10.1002/mar.21154"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Frame the wanted product as the gift (adjacent: measured on sales of the bundle)",
+   "dois": [
+    "10.1016/j.ijresmar.2021.07.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Free, easy returns raise spend per order (direct)",
+   "dois": [
+    "10.1002/joom.1135"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Token fee for upgrades (indirect)",
+   "dois": [
+    "10.1016/j.jretai.2015.09.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Flat rate above pay-per-use (indirect)",
+   "dois": [
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Simple add-on and component prices (indirect)",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Complementary products around the focal product (indirect)",
+   "dois": [
+    "10.1016/j.jretconser.2020.102339"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Intuitive units (indirect)",
+   "dois": [
+    "10.1093/jcr/ucy036",
+    "10.1086/668533"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Pick-your-price (indirect)",
+   "dois": [
+    "10.1177/0022242921990351"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-aov",
+   "rule": "Partition choices (indirect)",
+   "dois": [
+    "10.1561/107.00000023"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Show the price below the product",
+   "dois": [
+    "10.1016/j.jretai.2020.02.003"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Show a view count or a purchase count",
+   "dois": [
+    "10.1016/j.ijresmar.2021.01.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Keep sold-out options visible, at 10\u201330%",
+   "dois": [
+    "10.1016/j.ijresmar.2021.04.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Quantity CTAs for multi-unit products",
+   "dois": [
+    "10.1287/mksc.2022.1364"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Partition choices into steps of 2\u20135",
+   "dois": [
+    "10.1561/107.00000023"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Video for hedonic products",
+   "dois": [
+    "10.1509/jm.13.0521"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Models look away for hedonic products",
+   "dois": [
+    "10.1093/jcr/ucaa063"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Show a first-person hand touching the product",
+   "dois": [
+    "10.1177/00222437211059540"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Make the product shine",
+   "dois": [
+    "10.1002/cb.2128"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Graspable products on the right",
+   "dois": [
+    "10.1177/0022243719878390"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Space products apart",
+   "dois": [
+    "10.1509/jmr.13.0601"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Three claims, not four",
+   "dois": [
+    "10.1509/jm.11.0504"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Best features only",
+   "dois": [
+    "10.1086/664497"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Intuitive units",
+   "dois": [
+    "10.1093/jcr/ucy036",
+    "10.1086/668533"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Science-based messaging only for utilitarian products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Show your costs",
+   "dois": [
+    "10.1287/mksc.2019.1200"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Say you're small, unless the product is high-tech",
+   "dois": [
+    "10.1177/00222437221124857"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Extraordinary warranty",
+   "dois": [
+    "10.1016/j.jbusres.2021.11.078"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Sustainability, if real",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "\"For $0\", not \"free\"",
+   "dois": [
+    "10.1016/j.jretai.2019.11.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Frame the wanted product as the gift",
+   "dois": [
+    "10.1016/j.ijresmar.2021.07.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Token fee for upgrades",
+   "dois": [
+    "10.1016/j.jretai.2015.09.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Pick-your-price, never pay-what-you-want",
+   "dois": [
+    "10.1177/0022242921990351",
+    "10.1016/j.jbusres.2022.02.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Rounded when quality is the signal; just-below when price is",
+   "dois": [
+    "10.1086/678484",
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Discounts: \u2264 40%, amount off above 100, \"was X% higher\"",
+   "dois": [
+    "10.1287/isre.2017.0772",
+    "10.1016/j.jbusres.2015.08.014",
+    "10.1509/jmr.16.0599"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Deadlines, never unit caps",
+   "dois": [
+    "10.1002/mar.21489"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Online deadlines drive engagement more than sales",
+   "dois": [
+    "10.1177/00222437221118856"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "4.0\u20134.5 stars sells more than 4.5\u20135.0; irrelevant negatives help",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Reply to every review",
+   "dois": [
+    "10.1287/mksc.2017.1043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Recommendation labels by product type",
+   "dois": [
+    "10.1177/0022242920957347"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Horizontal layouts favor quality",
+   "dois": [
+    "10.1002/cb.2062"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-conversion",
+   "rule": "Abandoned-cart reminders at 24\u201372 hours",
+   "dois": [
+    "10.1177/0022242920959043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Auto-enroll everyone in a single-tier threshold loyalty program",
+   "dois": [
+    "10.1287/mksc.2020.1268"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Make rewards variable",
+   "dois": [
+    "10.1086/679418"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Positive open-ended feedback request",
+   "dois": [
+    "10.1509/jmr.14.0232"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Ask for reviews at 9\u201313 days",
+   "dois": [
+    "10.1177/00222429221143329"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Handwritten thank-you note with no promotion attached",
+   "dois": [
+    "10.1177/10949968221102306"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Refund the moment the return is shipped",
+   "dois": [
+    "10.1016/j.jretconser.2022.103067"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Free, easy returns",
+   "dois": [
+    "10.1002/joom.1135"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Free-shipping membership with a minimum order",
+   "dois": [
+    "10.1177/00222429231158116"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Reply to every review",
+   "dois": [
+    "10.1287/mksc.2017.1043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Abandoned-cart reminders at 24\u201372 hours",
+   "dois": [
+    "10.1177/0022242920959043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Scent the product or packaging",
+   "dois": [
+    "10.1086/649909"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "increase-repeat-purchases",
+   "rule": "Referrals framed around the friend's benefit",
+   "dois": [
+    "10.1287/isre.2019.0873"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Send abandoned-cart reminders after 24\u201372 hours, never within the first hour",
+   "dois": [
+    "10.1177/0022242920959043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Put a handwritten thank-you note in the box, with no promotion attached",
+   "dois": [
+    "10.1177/10949968221102306"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Scent the product or packaging",
+   "dois": [
+    "10.1086/649909"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Offer a paid free-shipping membership with a minimum order",
+   "dois": [
+    "10.1177/00222429231158116"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Free, no-questions-asked returns are the expected standard",
+   "dois": [
+    "10.1002/joom.1135"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Customers benchmark you against Amazon",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Refund the moment the return is shipped",
+   "dois": [
+    "10.1016/j.jretconser.2022.103067"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Auto-enroll everyone in a single-tier threshold loyalty program",
+   "dois": [
+    "10.1287/mksc.2020.1268"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "post-purchase",
+   "rule": "Make rewards variable",
+   "dois": [
+    "10.1086/679418"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "price-research",
+   "rule": "The de-biased direct-question method",
+   "dois": [
+    "10.1016/j.ijresmar.2020.04.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "price-research",
+   "rule": "Why the alternatives fall short",
+   "dois": [],
+   "uncited": false
+  },
+  {
+   "skill": "price-research",
+   "rule": "The incentive-compatible benchmark (BDM)",
+   "dois": [
+    "10.1002/bs.3830090304"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "price-research",
+   "rule": "Survey design rules used in the procedure",
+   "dois": [],
+   "uncited": false
+  },
+  {
+   "skill": "price-research",
+   "rule": "Choosing the price: profit maximum with a strategy override",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "pricing",
+   "rule": "Rounded prices when the decision is about quality or feelings",
+   "dois": [
+    "10.1086/678484"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Rounded prices make choices easier",
+   "dois": [
+    "10.1007/s11747-015-0428-7"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Rounded asking prices when bids will go up",
+   "dois": [
+    "10.1287/mnsc.2019.3570"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Just-below prices work through the left digit",
+   "dois": [
+    "10.1086/429600",
+    "10.1086/597215"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Small left digits make a discount feel bigger",
+   "dois": [
+    "10.1007/s11002-015-9387-5"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Just-below endings signal \"low price\", not \"high quality\"",
+   "dois": [
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Four-figure prices: repeat a low digit instead of 999",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "pricing",
+   "rule": "8 is the lucky ending in Japan and China",
+   "dois": [
+    "10.1108/02651330910933186",
+    "10.1509/jimk.11.2.101.20161"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Keep tiers on the same left digit if you want upgrades",
+   "dois": [
+    "10.1093/jcr/ucab049"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Precise opening prices get higher counteroffers",
+   "dois": [
+    "10.1086/701699"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Too much precision backfires with experts",
+   "dois": [
+    "10.1177/0956797616666074"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Flat rates beat pay-per-use even at a premium",
+   "dois": [
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Simple price components raise willingness to pay",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049",
+    "10.1509/jmr.12.0438"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Show the price below the product",
+   "dois": [
+    "10.1016/j.jretai.2020.02.003"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "pricing",
+   "rule": "Red prices look cheaper to men",
+   "dois": [
+    "10.1016/j.jretai.2013.01.002",
+    "10.1002/mar.21331"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Three claims, not four",
+   "dois": [
+    "10.1509/jm.11.0504"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Don't dilute your best features with merely good ones",
+   "dois": [
+    "10.1086/664497"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Rational messages up, emotional messages down",
+   "dois": [
+    "10.1093/jcr/ucv046"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Plain language",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Evocative color names",
+   "dois": [
+    "10.1086/429602"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Quantities in intuitive units (uses, pieces) rather than standardized measures",
+   "dois": [
+    "10.1093/jcr/ucy036",
+    "10.1086/668533"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Smaller units read as more precise and credible",
+   "dois": [
+    "10.1086/662612"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Feature branded ingredients and components",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Science-based messaging only for utilitarian products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Describe how the product feels to the touch",
+   "dois": [
+    "10.1016/j.jretconser.2020.102378"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-copy",
+   "rule": "Frame the product as an experience to attract reviews",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-page",
+   "rule": "Show a view count or a purchase count; switch to purchases as numbers grow",
+   "dois": [
+    "10.1016/j.ijresmar.2021.01.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Keep sold-out options visible, but no more than 10\u201330% of options",
+   "dois": [
+    "10.1016/j.ijresmar.2021.04.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Use quantity CTAs for products bought in multiple units",
+   "dois": [
+    "10.1287/mksc.2022.1364"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Partition choices into steps of 2\u20135 similar options",
+   "dois": [
+    "10.1561/107.00000023"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Keep add-on and upgrade prices simple",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049",
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Show the price below the product",
+   "dois": [
+    "10.1016/j.jretai.2020.02.003"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Three claims, not four",
+   "dois": [
+    "10.1509/jm.11.0504"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Say you're a small business (unless the product is high-tech)",
+   "dois": [
+    "10.1177/00222437221124857"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Offer an extraordinary warranty",
+   "dois": [
+    "10.1016/j.jbusres.2021.11.078"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-page",
+   "rule": "Condensed copy and visual rules",
+   "dois": [],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Video, slideshows, or GIFs for hedonic products; stills for utilitarian",
+   "dois": [
+    "10.1509/jm.13.0521"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Slow motion for premium hedonic products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Model gaze: away for hedonic, direct for informational or negative-emotion messages",
+   "dois": [
+    "10.1093/jcr/ucaa063"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Contextual backgrounds for women's clothing",
+   "dois": [
+    "10.1016/j.jbusres.2020.10.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Space products apart",
+   "dois": [
+    "10.1509/jmr.13.0601"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Wide margins in ads; related products clustered in the center",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Show multiple copies of a single-function product",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Make the product shine",
+   "dois": [
+    "10.1002/cb.2128"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Show a first-person hand touching the product",
+   "dois": [
+    "10.1177/00222437211059540"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Place graspable products on the right",
+   "dois": [
+    "10.1177/0022243719878390"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Color saturation changes perceived size",
+   "dois": [
+    "10.1093/jcr/ucx039"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Surround the focal product with complementary products",
+   "dois": [
+    "10.1016/j.jretconser.2020.102339"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Future-oriented products right, past-oriented left",
+   "dois": [
+    "10.1086/669476"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Shoppable and personal-feeling video",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "product-visuals",
+   "rule": "Pretest creatives with polls",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "promotions",
+   "rule": "Gifts beat discounts for pre-orders of distant launches",
+   "dois": [
+    "10.1007/s11747-021-00810-1"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Frame the product people want as the free gift in a bundle",
+   "dois": [
+    "10.1016/j.ijresmar.2021.07.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "\"Buy X, get Y free\" cuts returns versus \"X and Y for a special price\"",
+   "dois": [
+    "10.1002/mar.21154"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "\"For $0\" converts better than \"free\"",
+   "dois": [
+    "10.1016/j.jretai.2019.11.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Charge a token amount for upgrades",
+   "dois": [
+    "10.1016/j.jretai.2015.09.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Invented, relevant special days lift promotions",
+   "dois": [
+    "10.1002/jcpy.1271"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Deadlines, not unit caps",
+   "dois": [
+    "10.1002/mar.21489"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Online deadlines drive engagement more than sales",
+   "dois": [
+    "10.1177/00222437221118856"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Keep 10\u201330% of sold-out options visible",
+   "dois": [
+    "10.1016/j.ijresmar.2021.04.002",
+    "10.1207/s15324834basp1301_9"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Pick-your-price works; pay-what-you-want doesn't",
+   "dois": [
+    "10.1177/0022242921990351",
+    "10.1016/j.jbusres.2022.02.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "promotions",
+   "rule": "Uncertain rewards motivate more than fixed ones",
+   "dois": [
+    "10.1086/679418"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Rounded prices when the decision is about quality or feelings",
+   "dois": [
+    "10.1086/678484"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Rounded prices make choices easier",
+   "dois": [
+    "10.1007/s11747-015-0428-7"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Just-below endings signal \"low price\", not \"high quality\"",
+   "dois": [
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Simple price components raise willingness to pay",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049",
+    "10.1509/jmr.12.0438"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Flat rates beat pay-per-use even at a premium",
+   "dois": [
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Compute a percentage change against the smaller base",
+   "dois": [
+    "10.1509/jmr.16.0599"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Validate the price level before moving",
+   "dois": [
+    "10.1016/j.ijresmar.2020.04.006"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Quantities in intuitive units (uses, pieces) rather than standardized measures",
+   "dois": [
+    "10.1093/jcr/ucy036",
+    "10.1086/668533"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Smaller units read as more precise and credible",
+   "dois": [
+    "10.1086/662612"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Feature branded ingredients and components",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Science-based messaging only for utilitarian products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Three claims, not four",
+   "dois": [
+    "10.1509/jm.11.0504"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Don't dilute your best features with merely good ones",
+   "dois": [
+    "10.1086/664497"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Plain language",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Video, slideshows, or GIFs for hedonic products; stills for utilitarian",
+   "dois": [
+    "10.1509/jm.13.0521"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Slow motion for premium hedonic products",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Show a first-person hand touching the product",
+   "dois": [
+    "10.1177/00222437211059540"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Make the product shine",
+   "dois": [
+    "10.1002/cb.2128"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Show multiple copies of a single-function product",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Show the price below the product",
+   "dois": [
+    "10.1016/j.jretai.2020.02.003"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Horizontal layouts favor quality; vertical layouts favor price",
+   "dois": [
+    "10.1002/cb.2062"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Keep sold-out options visible, but no more than 10\u201330% of options",
+   "dois": [
+    "10.1016/j.ijresmar.2021.04.002"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Show your costs",
+   "dois": [
+    "10.1287/mksc.2019.1200"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Say you're small \u2014 unless the product is high-tech",
+   "dois": [
+    "10.1177/00222437221124857"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "Offer an extraordinary warranty",
+   "dois": [
+    "10.1016/j.jbusres.2021.11.078"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "raise-prices",
+   "rule": "State real sustainability practices",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "referrals",
+   "rule": "Frame the referral around the friend's benefit",
+   "dois": [
+    "10.1287/isre.2019.0873"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "referrals",
+   "rule": "Pre-fill the share message with one signal",
+   "dois": [
+    "10.1287/isre.2019.0873"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "referrals",
+   "rule": "Prefer non-monetary rewards",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "referrals",
+   "rule": "Very high rewards attract unprofitable customers",
+   "dois": [
+    "10.1287/mksc.2020.1242"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Ask for reviews 9\u201313 days after purchase, not the next day",
+   "dois": [
+    "10.1177/00222429221143329"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Open feedback requests with a positive open-ended question",
+   "dois": [
+    "10.1509/jmr.14.0232"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Score-gating is not supported here and is legally risky",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "reviews",
+   "rule": "The first review shapes the ones that follow",
+   "dois": [
+    "10.1287/mksc.2020.1264"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "A 4.0\u20134.5 average sells more than 4.5\u20135.0",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "reviews",
+   "rule": "Irrelevant negative reviews help",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "reviews",
+   "rule": "Reply to every review",
+   "dois": [
+    "10.1287/mksc.2017.1043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Reply to public complaints once, fast, with empathy, then move it private",
+   "dois": [
+    "10.1177/00222429211002183"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Answer rude complaints with humor about the situation",
+   "dois": [
+    "10.1177/1094670521989448"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "reviews",
+   "rule": "Frame the product as an experience to earn more reviews",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Rounded prices when quality or feelings drive the decision",
+   "dois": [
+    "10.1086/678484",
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Flat fees beat hourly rates, even at a premium",
+   "dois": [
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Precise opening quotes get higher counteroffers",
+   "dois": [
+    "10.1086/701699"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Too much precision backfires with expert buyers",
+   "dois": [
+    "10.1177/0956797616666074"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Show your costs",
+   "dois": [
+    "10.1287/mksc.2019.1200"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Simple price components raise willingness to pay",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Say you're small \u2014 unless the service is high-tech",
+   "dois": [
+    "10.1177/00222437221124857"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Extraordinary guarantees signal quality for unknown providers",
+   "dois": [
+    "10.1016/j.jbusres.2021.11.078"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Don't discount more than 40%",
+   "dois": [
+    "10.1287/isre.2017.0772"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "service-pricing",
+   "rule": "Amount off when the price is 100 or more",
+   "dois": [
+    "10.1016/j.jbusres.2015.08.014"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Channel priorities depend on hedonic vs utilitarian purchases",
+   "dois": [
+    "10.1177/0022242920911628"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Label recommendations as algorithmic for utilitarian, human for hedonic",
+   "dois": [
+    "10.1177/0022242920957347"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Horizontal layouts favor quality; vertical layouts favor price",
+   "dois": [
+    "10.1002/cb.2062"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Match structured or unstructured design to brand positioning",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Show your costs",
+   "dois": [
+    "10.1287/mksc.2019.1200"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Say you're small \u2014 unless the product is high-tech",
+   "dois": [
+    "10.1177/00222437221124857"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Offer an extraordinary warranty",
+   "dois": [
+    "10.1016/j.jbusres.2021.11.078"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "store-audit",
+   "rule": "State real sustainability practices",
+   "dois": [],
+   "uncited": true
+  },
+  {
+   "skill": "store-audit",
+   "rule": "Use marketplaces to acquire direct customers",
+   "dois": [
+    "10.1016/j.ijresmar.2020.09.007"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Flat rates beat pay-per-use even at a premium",
+   "dois": [
+    "10.1016/j.jbusres.2021.04.024"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Simple price components raise willingness to pay",
+   "dois": [
+    "10.1016/j.jbusres.2013.05.049",
+    "10.1509/jmr.12.0438"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Keep tiers on the same left digit if you want upgrades",
+   "dois": [
+    "10.1093/jcr/ucab049"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Rounded prices when the decision is about quality; just-below when it's about price",
+   "dois": [
+    "10.1086/678484",
+    "10.1016/j.jretai.2005.11.001"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Paid memberships with a threshold raise spend",
+   "dois": [
+    "10.1177/00222429231158116"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Auto-enroll everyone in a single-tier threshold reward program",
+   "dois": [
+    "10.1287/mksc.2020.1268"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Uncertain rewards motivate more than fixed ones",
+   "dois": [
+    "10.1086/679418"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "Reminders at 24\u201372 hours, never within the first hour",
+   "dois": [
+    "10.1177/0022242920959043"
+   ],
+   "uncited": false
+  },
+  {
+   "skill": "subscription-pricing",
+   "rule": "\"For $0\" converts better than \"free\"",
+   "dois": [
+    "10.1016/j.jretai.2019.11.006"
+   ],
+   "uncited": false
+  }
+ ],
+ "crossref": {
+  "10.1002/bs.3830090304": {
+   "title": "Measuring utility by a single-response sequential method",
+   "journal": "Behavioral Science",
+   "year": 1964,
+   "authors": [
+    "Becker",
+    "Degroot",
+    "Marschak"
+   ]
+  },
+  "10.1002/cb.2062": {
+   "title": "Vertical vs. horizontal presentation formats result in different consumption choices due to construal priming",
+   "journal": "Journal of Consumer Behaviour",
+   "year": 2022,
+   "authors": [
+    "Mukherjee"
+   ]
+  },
+  "10.1002/cb.2128": {
+   "title": "Drawn to the gloss: Examining the effect of product reflection on product aesthetics",
+   "journal": "Journal of Consumer Behaviour",
+   "year": 2022,
+   "authors": [
+    "Sharma",
+    "Kumar"
+   ]
+  },
+  "10.1002/jcpy.1271": {
+   "title": "Promoting Pi Day: Consumer Response to Special Day\u2010Themed Sales Promotions",
+   "journal": "Journal of Consumer Psychology",
+   "year": 2021,
+   "authors": [
+    "Zane",
+    "Reczek",
+    "Haws"
+   ]
+  },
+  "10.1002/joom.1135": {
+   "title": "The impact of free returns on online purchase behavior: Evidence from an intervention at an online retailer",
+   "journal": "Journal of Operations Management",
+   "year": 2021,
+   "authors": [
+    "Patel",
+    "Baldauf",
+    "Karlsson",
+    "Oghazi"
+   ]
+  },
+  "10.1002/mar.21154": {
+   "title": "\u201cRetail is detail! Give consumers a gift rather than a bundle\u201d: Promotion framing and consumer product returns",
+   "journal": "Psychology &amp; Marketing",
+   "year": 2018,
+   "authors": [
+    "Lee",
+    "Yi"
+   ]
+  },
+  "10.1002/mar.21331": {
+   "title": "Red price? Red flag! Eye\u2010tracking reveals how one red price can hurt a retailer",
+   "journal": "Psychology &amp; Marketing",
+   "year": 2020,
+   "authors": [
+    "Ye",
+    "Bhatt",
+    "Jeong",
+    "Zhang",
+    "Suri"
+   ]
+  },
+  "10.1002/mar.21489": {
+   "title": "The downside of scarcity: Scarcity appeals can trigger consumer anger and brand switching intentions",
+   "journal": "Psychology &amp; Marketing",
+   "year": 2021,
+   "authors": [
+    "Biraglia",
+    "Usrey",
+    "Ulqinaku"
+   ]
+  },
+  "10.1007/s11002-015-9387-5": {
+   "title": "Distortion of price discount perceptions through the left-digit effect",
+   "journal": "Marketing Letters",
+   "year": 2015,
+   "authors": [
+    "Lin",
+    "Wang"
+   ]
+  },
+  "10.1007/s11747-015-0428-7": {
+   "title": "Life could be so easy: the convenience effect of round price endings",
+   "journal": "Journal of the Academy of Marketing Science",
+   "year": 2015,
+   "authors": [
+    "Wieseke",
+    "Kolberg",
+    "Schons"
+   ]
+  },
+  "10.1007/s11747-021-00810-1": {
+   "title": "The effect of positive anticipatory utility on product pre\u2011order\u00a0evaluations and choices",
+   "journal": "Journal of the Academy of Marketing Science",
+   "year": 2021,
+   "authors": [
+    "Mukherjee",
+    "Smith",
+    "Burton"
+   ]
+  },
+  "10.1016/j.ijresmar.2020.04.006": {
+   "title": "A de-biased direct question approach to measuring consumers' willingness to pay",
+   "journal": "International Journal of Research in Marketing",
+   "year": 2021,
+   "authors": [
+    "Hofstetter",
+    "Miller",
+    "Krohmer",
+    "Zhang"
+   ]
+  },
+  "10.1016/j.ijresmar.2020.09.007": {
+   "title": "Acquiring customers through online marketplaces? The effect of marketplace sales on sales in a retailer's own channels",
+   "journal": "International Journal of Research in Marketing",
+   "year": 2021,
+   "authors": [
+    "Maier",
+    "Wieringa"
+   ]
+  },
+  "10.1016/j.ijresmar.2021.01.001": {
+   "title": "Social selling cues: The dynamics of posting numbers viewed and bought on customers' purchase intentions",
+   "journal": "International Journal of Research in Marketing",
+   "year": 2021,
+   "authors": [
+    "Das",
+    "Spence",
+    "Agarwal"
+   ]
+  },
+  "10.1016/j.ijresmar.2021.04.002": {
+   "title": "A good way to boost sales? Effects of the proportion of sold-out options on purchase behavior",
+   "journal": "International Journal of Research in Marketing",
+   "year": 2022,
+   "authors": [
+    "Tian",
+    "Chen",
+    "Xu"
+   ]
+  },
+  "10.1016/j.ijresmar.2021.07.001": {
+   "title": "Feeling lucky: How framing the target product as a free gift enhances purchase intention",
+   "journal": "International Journal of Research in Marketing",
+   "year": 2022,
+   "authors": [
+    "Liu",
+    "Wei",
+    "Yang",
+    "Keh"
+   ]
+  },
+  "10.1016/j.jbusres.2013.05.049": {
+   "title": "How price complexity takes its toll: The neglected role of a simplicity bias and fairness in price evaluations",
+   "journal": "Journal of Business Research",
+   "year": 2014,
+   "authors": [
+    "Homburg",
+    "Totzek",
+    "Kr\u00e4mer"
+   ]
+  },
+  "10.1016/j.jbusres.2015.08.014": {
+   "title": "Amount off versus percentage off\u2014when does it matter?",
+   "journal": "Journal of Business Research",
+   "year": 2016,
+   "authors": [
+    "Gonz\u00e1lez",
+    "Esteva",
+    "Roggeveen",
+    "Grewal"
+   ]
+  },
+  "10.1016/j.jbusres.2020.10.002": {
+   "title": "What women want? How contextual product displays influence women\u2019s online shopping behavior",
+   "journal": "Journal of Business Research",
+   "year": 2021,
+   "authors": [
+    "Gonz\u00e1lez",
+    "Meyer",
+    "Paz Toldos"
+   ]
+  },
+  "10.1016/j.jbusres.2021.04.024": {
+   "title": "Purchasing professionals and the flat-rate bias: Effects of price premiums, past usage, and relational ties on price plan choice",
+   "journal": "Journal of Business Research",
+   "year": 2021,
+   "authors": [
+    "Kienzler",
+    "Kowalkowski",
+    "Kindstr\u00f6m"
+   ]
+  },
+  "10.1016/j.jbusres.2021.11.078": {
+   "title": "Overcoming the challenge of low familiarity: Can a weakly familiar brand signal quality with exceptionally strong warranty?",
+   "journal": "Journal of Business Research",
+   "year": 2022,
+   "authors": [
+    "Dutta",
+    "Banerjee",
+    "Johnson",
+    "Biswas"
+   ]
+  },
+  "10.1016/j.jbusres.2022.02.014": {
+   "title": "Too tired for a good deal: How customer fatigue shapes the performance of Pay-What-You-Want pricing",
+   "journal": "Journal of Business Research",
+   "year": 2022,
+   "authors": [
+    "Wang",
+    "Yuan",
+    "Beck"
+   ]
+  },
+  "10.1016/j.jretai.2005.11.001": {
+   "title": "The 99 price ending as a signal of a low-price appeal",
+   "journal": "Journal of Retailing",
+   "year": 2006,
+   "authors": [
+    "SCHINDLER"
+   ]
+  },
+  "10.1016/j.jretai.2013.01.002": {
+   "title": "Are Men Seduced by Red? The Effect of Red Versus Black Prices on Price Perceptions",
+   "journal": "Journal of Retailing",
+   "year": 2013,
+   "authors": [
+    "Puccinelli",
+    "Chandrashekaran",
+    "Grewal",
+    "Suri"
+   ]
+  },
+  "10.1016/j.jretai.2015.09.001": {
+   "title": "Sometimes \u201cFee\u201d Is Better Than \u201cFree\u201d: Token Promotional Pricing and Consumer Reactions to Price Promotion Offering Product Upgrades",
+   "journal": "Journal of Retailing",
+   "year": 2016,
+   "authors": [
+    "Mao"
+   ]
+  },
+  "10.1016/j.jretai.2019.11.006": {
+   "title": "Is $0 Better than Free? Consumer Response to \u201c$0\u201d versus \u201cFree\u201d Framing of a Free Promotion",
+   "journal": "Journal of Retailing",
+   "year": 2020,
+   "authors": [
+    "Koo",
+    "Suk"
+   ]
+  },
+  "10.1016/j.jretai.2020.02.003": {
+   "title": "The Upside of Down: Presenting a Price in a Low or High Location Influences How Consumers Evaluate It",
+   "journal": "Journal of Retailing",
+   "year": 2020,
+   "authors": [
+    "Barone",
+    "Coulter",
+    "Li"
+   ]
+  },
+  "10.1016/j.jretconser.2020.102339": {
+   "title": "Ketchup with your fries? Utilizing complementary product displays to transfer attention to a focal product",
+   "journal": "Journal of Retailing and Consumer Services",
+   "year": 2021,
+   "authors": [
+    "Radon",
+    "Brannon",
+    "Reardon"
+   ]
+  },
+  "10.1016/j.jretconser.2020.102340": {
+   "title": "Empirical decomposition of customer responses to discount coupons in online FMCG retailing",
+   "journal": "Journal of Retailing and Consumer Services",
+   "year": 2021,
+   "authors": [
+    "Montazeri",
+    "Tamaddoni",
+    "Stakhovych",
+    "Ewing"
+   ]
+  },
+  "10.1016/j.jretconser.2020.102378": {
+   "title": "Need for touch and haptic imagery: An investigation in online fashion shopping",
+   "journal": "Journal of Retailing and Consumer Services",
+   "year": 2021,
+   "authors": [
+    "Silva",
+    "Rocha",
+    "De Cicco",
+    "Galhanone",
+    "Manzini Ferreira Mattos"
+   ]
+  },
+  "10.1016/j.jretconser.2021.102590": {
+   "title": "Consistent price endings increase consumers perceptions of cheapness",
+   "journal": "Journal of Retailing and Consumer Services",
+   "year": 2021,
+   "authors": [
+    "Hung",
+    "Cheng",
+    "Chuang",
+    "Yu",
+    "Lin"
+   ]
+  },
+  "10.1016/j.jretconser.2022.103067": {
+   "title": "Using instant refunds to improve online return experiences",
+   "journal": "Journal of Retailing and Consumer Services",
+   "year": 2022,
+   "authors": [
+    "Mart\u00ednez-L\u00f3pez",
+    "Feng",
+    "Li",
+    "L\u00f3pez-L\u00f3pez"
+   ]
+  },
+  "10.1086/429600": {
+   "title": "Penny Wise and Pound Foolish: The Left\u2010Digit Effect in Price Cognition",
+   "journal": "Journal of Consumer Research",
+   "year": 2005,
+   "authors": [
+    "Thomas",
+    "Morwitz"
+   ]
+  },
+  "10.1086/429602": {
+   "title": "Shades of Meaning: The Effect of Color and Flavor Names on Consumer Choice",
+   "journal": "Journal of Consumer Research",
+   "year": 2005,
+   "authors": [
+    "Miller",
+    "Kahn"
+   ]
+  },
+  "10.1086/597215": {
+   "title": "Price Endings, Left-Digit Effects, and Choice",
+   "journal": "Journal of Consumer Research",
+   "year": 2009,
+   "authors": [
+    "Manning",
+    "Sprott"
+   ]
+  },
+  "10.1086/649909": {
+   "title": "Product Scent and Memory",
+   "journal": "Journal of Consumer Research",
+   "year": 2010,
+   "authors": [
+    "Krishna",
+    "Lwin",
+    "Morrin"
+   ]
+  },
+  "10.1086/662612": {
+   "title": "How and Why 1 Year Differs from 365 Days: A Conversational Logic Analysis of Inferences from the Granularity of Quantitative Expressions",
+   "journal": "Journal of Consumer Research",
+   "year": 2011,
+   "authors": [
+    "Zhang",
+    "Schwarz"
+   ]
+  },
+  "10.1086/664497": {
+   "title": "The Presenter's Paradox: Figure 1.",
+   "journal": "Journal of Consumer Research",
+   "year": 2012,
+   "authors": [
+    "Weaver",
+    "Garcia",
+    "Schwarz"
+   ]
+  },
+  "10.1086/668533": {
+   "title": "Are All Units Created Equal? The Effect of Default Units on Product Evaluations",
+   "journal": "Journal of Consumer Research",
+   "year": 2013,
+   "authors": [
+    "Lembregts",
+    "Pandelaere"
+   ]
+  },
+  "10.1086/669476": {
+   "title": "The Future Looks \u201cRight\u201d: Effects of the Horizontal Location of Advertising Images on Product Attitude",
+   "journal": "Journal of Consumer Research",
+   "year": 2013,
+   "authors": [
+    "Chae",
+    "Hoegg"
+   ]
+  },
+  "10.1086/678484": {
+   "title": "This Number Just Feels Right: The Impact of Roundedness of Price Numbers on Product Evaluations",
+   "journal": "Journal of Consumer Research",
+   "year": 2015,
+   "authors": [
+    "Wadhwa",
+    "Zhang"
+   ]
+  },
+  "10.1086/679418": {
+   "title": "The Motivating-Uncertainty Effect: Uncertainty Increases Resource Investment in the Process of Reward Pursuit",
+   "journal": "Journal of Consumer Research",
+   "year": 2015,
+   "authors": [
+    "Shen",
+    "Fishbach",
+    "Hsee"
+   ]
+  },
+  "10.1086/701699": {
+   "title": "On the Empirical Content of Cheap-Talk Signaling: An Application to Bargaining",
+   "journal": "Journal of Political Economy",
+   "year": 2019,
+   "authors": [
+    "Backus",
+    "Blake",
+    "Tadelis"
+   ]
+  },
+  "10.1093/jcr/ucaa063": {
+   "title": "How the Eyes Connect to the Heart: The\u00a0Influence of Eye Gaze Direction on Advertising Effectiveness",
+   "journal": "Journal of Consumer Research",
+   "year": 2021,
+   "authors": [
+    "To",
+    "Patrick"
+   ]
+  },
+  "10.1093/jcr/ucab049": {
+   "title": "The Threshold-Crossing Effect: Just-Below Pricing Discourages Consumers to Upgrade",
+   "journal": "Journal of Consumer Research",
+   "year": 2021,
+   "authors": [
+    "Kim",
+    "Malkoc",
+    "Goodman"
+   ]
+  },
+  "10.1093/jcr/ucac006": {
+   "title": "The <i>Off by 100%</i> Bias: The Effects of Percentage Changes Greater than 100% on Magnitude Judgments and Consumer Choice",
+   "journal": "Journal of Consumer Research",
+   "year": 2022,
+   "authors": [
+    "Fisher",
+    "Mormann"
+   ]
+  },
+  "10.1093/jcr/ucv046": {
+   "title": "Positioning Rationality and Emotion: Rationality Is Up and Emotion Is Down",
+   "journal": "Journal of Consumer Research",
+   "year": 2015,
+   "authors": [
+    "Cian",
+    "Krishna",
+    "Schwarz"
+   ]
+  },
+  "10.1093/jcr/ucx039": {
+   "title": "Color Saturation Increases Perceived Product Size",
+   "journal": "Journal of Consumer Research",
+   "year": 2017,
+   "authors": [
+    "Hagtvedt",
+    "Adam Brasel"
+   ]
+  },
+  "10.1093/jcr/ucy036": {
+   "title": "Making Each Unit Count: The Role of Discretizing Units in Quantity Expressions",
+   "journal": "Journal of Consumer Research",
+   "year": 2018,
+   "authors": [
+    "Lembregts",
+    "Van Den Bergh"
+   ]
+  },
+  "10.1108/02651330910933186": {
+   "title": "Patterns of price endings used in US and Japanese price advertising",
+   "journal": "International Marketing Review",
+   "year": 2009,
+   "authors": [
+    "Schindler"
+   ]
+  },
+  "10.1177/0022242920911628": {
+   "title": "Path to Purpose? How Online Customer Journeys Differ for Hedonic Versus Utilitarian Purchases",
+   "journal": "Journal of Marketing",
+   "year": 2020,
+   "authors": [
+    "Li",
+    "Abbasi",
+    "Cheema",
+    "Abraham"
+   ]
+  },
+  "10.1177/0022242920957347": {
+   "title": "Artificial Intelligence in Utilitarian vs. Hedonic Contexts: The \u201cWord-of-Machine\u201d Effect",
+   "journal": "Journal of Marketing",
+   "year": 2020,
+   "authors": [
+    "Longoni",
+    "Cian"
+   ]
+  },
+  "10.1177/0022242920959043": {
+   "title": "The Double-Edged Effects of E-Commerce Cart Retargeting: Does Retargeting Too Early Backfire?",
+   "journal": "Journal of Marketing",
+   "year": 2020,
+   "authors": [
+    "Li",
+    "Luo",
+    "Lu",
+    "Moriguchi"
+   ]
+  },
+  "10.1177/00222429211002183": {
+   "title": "Complaint Publicization in Social Media",
+   "journal": "Journal of Marketing",
+   "year": 2021,
+   "authors": [
+    "Golmohammadi",
+    "Havakhor",
+    "Gauri",
+    "Comprix"
+   ]
+  },
+  "10.1177/0022242921990351": {
+   "title": "The Control\u2013Effort Trade-Off in Participative Pricing: How Easing Pricing Decisions Enhances Purchase Outcomes",
+   "journal": "Journal of Marketing",
+   "year": 2021,
+   "authors": [
+    "Wang",
+    "Beck",
+    "Yuan"
+   ]
+  },
+  "10.1177/00222429221143329": {
+   "title": "Ask for Reviews at the Right Time: Evidence from Two Field Experiments",
+   "journal": "Journal of Marketing",
+   "year": 2023,
+   "authors": [
+    "Jung",
+    "Ryu",
+    "Han",
+    "Cho"
+   ]
+  },
+  "10.1177/00222429231158116": {
+   "title": "The Effectiveness of Membership-Based Free Shipping: An Empirical Investigation of Consumers\u2019 Purchase Behaviors and Revenue Contribution",
+   "journal": "Journal of Marketing",
+   "year": 2023,
+   "authors": [
+    "Guo",
+    "Liu"
+   ]
+  },
+  "10.1177/0022243719878390": {
+   "title": "On the Other Hand\u2026: Enhancing Promotional Effectiveness with Haptic Cues",
+   "journal": "Journal of Marketing Research",
+   "year": 2019,
+   "authors": [
+    "Maille",
+    "Morrin",
+    "Reynolds-McIlnay"
+   ]
+  },
+  "10.1177/00222437211059540": {
+   "title": "Observing Product Touch: The Vicarious Haptic Effect in Digital Marketing and Virtual Reality",
+   "journal": "Journal of Marketing Research",
+   "year": 2022,
+   "authors": [
+    "Luangrath",
+    "Peck",
+    "Hedgcock",
+    "Xu"
+   ]
+  },
+  "10.1177/00222437221118856": {
+   "title": "Examining the Efficacy of Time Scarcity Marketing Promotions in Online Retail",
+   "journal": "Journal of Marketing Research",
+   "year": 2022,
+   "authors": [
+    "Hmurovic",
+    "Lamberton",
+    "Goldsmith"
+   ]
+  },
+  "10.1177/00222437221124857": {
+   "title": "Does Company Size Shape Product Quality Inferences? Larger Companies Make Better High-Tech Products, but Smaller Companies Make Better Low-Tech Products",
+   "journal": "Journal of Marketing Research",
+   "year": 2022,
+   "authors": [
+    "Woolley",
+    "Kupor",
+    "Liu"
+   ]
+  },
+  "10.1177/0956797616666074": {
+   "title": "The Too-Much-Precision Effect",
+   "journal": "Psychological Science",
+   "year": 2016,
+   "authors": [
+    "Loschelder",
+    "Friese",
+    "Schaerer",
+    "Galinsky"
+   ]
+  },
+  "10.1177/1094670521989448": {
+   "title": "How Do Observers React to Companies\u2019 Humorous Responses to Online Public Complaints?",
+   "journal": "Journal of Service Research",
+   "year": 2021,
+   "authors": [
+    "B\u00e9al",
+    "Gr\u00e9goire"
+   ]
+  },
+  "10.1177/10949968221102306": {
+   "title": "Do Handwritten Notes Benefit Online Retailers? A Field Experiment",
+   "journal": "Journal of Interactive Marketing",
+   "year": 2022,
+   "authors": [
+    "Kim",
+    "Choi",
+    "Kim"
+   ]
+  },
+  "10.1207/s15324834basp1301_9": {
+   "title": "A Brief History of Research on Phantom Alternatives: Evidence for Seven Empirical Generalizations About Phantoms",
+   "journal": "Basic and Applied Social Psychology",
+   "year": 1992,
+   "authors": [
+    "Pratkanis",
+    "Farquhar"
+   ]
+  },
+  "10.1287/isre.2017.0772": {
+   "title": "When Discounts Hurt Sales: The Case of Daily-Deal Markets",
+   "journal": "Information Systems Research",
+   "year": 2018,
+   "authors": [
+    "Cao",
+    "Hui",
+    "Xu"
+   ]
+  },
+  "10.1287/isre.2019.0873": {
+   "title": "Words Matter! Toward a Prosocial Call-to-Action for Online Referral: Evidence from Two Field Experiments",
+   "journal": "Information Systems Research",
+   "year": 2020,
+   "authors": [
+    "Jung",
+    "Bapna",
+    "Golden",
+    "Sun"
+   ]
+  },
+  "10.1287/mksc.2017.1043": {
+   "title": "Online Reputation Management: Estimating the Impact of Management Responses on Consumer Reviews",
+   "journal": "Marketing Science",
+   "year": 2017,
+   "authors": [
+    "Proserpio",
+    "Zervas"
+   ]
+  },
+  "10.1287/mksc.2019.1200": {
+   "title": "Lifting the Veil: The Benefits of Cost Transparency",
+   "journal": "Marketing Science",
+   "year": 2020,
+   "authors": [
+    "Mohan",
+    "Buell",
+    "John"
+   ]
+  },
+  "10.1287/mksc.2020.1242": {
+   "title": "Referral Reward Size and New Customer Profitability",
+   "journal": "Marketing Science",
+   "year": 2020,
+   "authors": [
+    "Wolters",
+    "Schulze",
+    "Gedenk"
+   ]
+  },
+  "10.1287/mksc.2020.1264": {
+   "title": "The Fateful First Consumer Review",
+   "journal": "Marketing Science",
+   "year": 2021,
+   "authors": [
+    "Park",
+    "Shin",
+    "Xie"
+   ]
+  },
+  "10.1287/mksc.2020.1268": {
+   "title": "Can Non-tiered Customer Loyalty Programs Be Profitable?",
+   "journal": "Marketing Science",
+   "year": 2021,
+   "authors": [
+    "Gopalakrishnan",
+    "Jiang",
+    "Nevskaya",
+    "Thomadsen"
+   ]
+  },
+  "10.1287/mksc.2022.1364": {
+   "title": "The Importance of Selling Formats: When Integrating Purchase and Quantity Decisions Increases Sales",
+   "journal": "Marketing Science",
+   "year": 2023,
+   "authors": [
+    "Duke",
+    "Amir"
+   ]
+  },
+  "10.1287/mnsc.2019.3570": {
+   "title": "Precision in a Seller\u2019s Market: Round Asking Prices Lead to Higher Counteroffers and Selling Prices",
+   "journal": "Management Science",
+   "year": 2021,
+   "authors": [
+    "Leib",
+    "K\u00f6bis",
+    "Francke",
+    "Shalvi",
+    "Roskes"
+   ]
+  },
+  "10.1509/jimk.11.2.101.20161": {
+   "title": "Cultural Superstitions and the Price Endings Used in Chinese Advertising",
+   "journal": "Journal of International Marketing",
+   "year": 2003,
+   "authors": [
+    "Simmons",
+    "Schindler"
+   ]
+  },
+  "10.1509/jm.11.0504": {
+   "title": "When Three Charms but Four Alarms: Identifying the Optimal Number of Claims in Persuasion Settings",
+   "journal": "Journal of Marketing",
+   "year": 2014,
+   "authors": [
+    "Shu",
+    "Carlson"
+   ]
+  },
+  "10.1509/jm.13.0521": {
+   "title": "The Impact of Dynamic Presentation Format on Consumer Preferences for Hedonic Products and Services",
+   "journal": "Journal of Marketing",
+   "year": 2015,
+   "authors": [
+    "Roggeveen",
+    "Grewal",
+    "Townsend",
+    "Krishnan"
+   ]
+  },
+  "10.1509/jmkr.2005.42.4.383": {
+   "title": "Placebo Effects of Marketing Actions: Consumers May Get What They Pay For",
+   "journal": "Journal of Marketing Research",
+   "year": 2005,
+   "authors": [
+    "Shiv",
+    "Carmon",
+    "Ariely"
+   ]
+  },
+  "10.1509/jmr.12.0438": {
+   "title": "Price Number Relationships and Deal Processing Fluency: The Effects of Approximation Sequences and Number Multiples",
+   "journal": "Journal of Marketing Research",
+   "year": 2014,
+   "authors": [
+    "Coulter",
+    "Roggeveen"
+   ]
+  },
+  "10.1509/jmr.13.0601": {
+   "title": "The Space-to-Product Ratio Effect: How Interstitial Space Influences Product Aesthetic Appeal, Store Perceptions, and Product Preference",
+   "journal": "Journal of Marketing Research",
+   "year": 2016,
+   "authors": [
+    "Sevilla",
+    "Townsend"
+   ]
+  },
+  "10.1509/jmr.14.0232": {
+   "title": "\u201cMere Measurement Plus\u201d: How Solicitation of Open-Ended Positive Feedback Influences Customer Purchase Behavior",
+   "journal": "Journal of Marketing Research",
+   "year": 2017,
+   "authors": [
+    "Bone",
+    "Lemon",
+    "Voorhees",
+    "Liljenquist",
+    "Fombelle",
+    "Detienne",
+    "Money"
+   ]
+  },
+  "10.1509/jmr.16.0599": {
+   "title": "Reframing the Discount as a Comparison against the Sale Price: Does it Make the Discount More Attractive?",
+   "journal": "Journal of Marketing Research",
+   "year": 2018,
+   "authors": [
+    "Guha",
+    "Biswas",
+    "Grewal",
+    "Verma",
+    "Banerjee",
+    "Nordf\u00e4lt"
+   ]
+  },
+  "10.1561/107.00000023": {
+   "title": "Partitioning the Choice Task Makes Starbucks Coffee Taste Better",
+   "journal": "Journal of Marketing Behavior",
+   "year": 2016,
+   "authors": [
+    "Dorn",
+    "Messner",
+    "W\u00e4nke"
+   ]
+  }
+ }
+}
