@@ -1,12 +1,28 @@
 {
   "name": "ecommerce-skills",
-  "description": "Evidence-based skills for pricing, promotions, and conversion in online stores. Rules cite the peer-reviewed studies behind them by DOI, with uncited practitioner tips marked as such.",
+  "displayName": "Ecommerce Skills",
   "version": "1.0.0",
+  "description": "Evidence-based skills for pricing, promotions, and conversion in online stores. Rules cite the peer-reviewed studies behind them by DOI, with uncited practitioner tips marked as such.",
   "author": {
-    "name": "Checkout Page"
+    "name": "Checkout Page",
+    "email": "support@checkoutpage.com",
+    "url": "https://checkoutpage.com"
   },
-  "license": "MIT",
   "homepage": "https://github.com/checkout-page/ecommerce-skills",
   "repository": "https://github.com/checkout-page/ecommerce-skills",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "pricing",
+    "discounts",
+    "promotions",
+    "conversion",
+    "checkout",
+    "product-pages"
+  ],
+  "icon": "./logo.png",
+  "supportUrl": "https://checkoutpage.com/contact",
+  "privacyPolicyUrl": "https://checkoutpage.com/privacy-policy",
+  "termsOfServiceUrl": "https://checkoutpage.com/terms-of-service",
   "skills": "./skills"
 }
