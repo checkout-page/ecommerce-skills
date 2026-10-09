@@ -1,6 +1,6 @@
 # Ecommerce optimization skills
 
-Nineteen agent skills for pricing, promotions, and conversion in online stores: four by goal, twelve by task, three by what you sell. The rules come from peer-reviewed studies, carry their condition and effect size, and cite the paper by DOI (every DOI is verified against Crossref). Not everything is sourced: of 132 rule entries across the shipped skills, 24 have no primary paper on file. Those are marked † in the skill and "practitioner tip" in its reference file, so you can weigh them accordingly.
+Nineteen agent skills for pricing, promotions, and conversion in online stores: four by goal, twelve by task, three by what you sell. Most rules come from peer-reviewed studies. Each states its condition, gives the effect size where the study reports one, and cites the paper by DOI (every DOI is verified against Crossref). Not everything is sourced: of 132 rule entries across the shipped skills, 101 cite a paper by DOI, 6 point to the entry in another skill that does, and 25 have no primary paper on file. Those are marked † in the skill and "practitioner tip" in its reference file, so you can weigh them accordingly.
 
 Skills follow the [Agent Skills](https://agentskills.io) layout (`skills/<name>/SKILL.md`), so they work in Claude Code and any other runtime that reads that format.
 
@@ -22,7 +22,7 @@ Start here if you have a metric you want up. Each returns a backlog ranked by me
 | Skill | Ask it to… |
 |---|---|
 | `pricing` | Choose the digits and structure of a price: rounded vs .99 vs precise, flat rates, add-ons, where and how to display the price |
-| `discounts` | Word and size a markdown or coupon: $ vs %, "was X% higher", endings, the 40% ceiling |
+| `discounts` | Word and size a markdown or coupon: $ vs %, "was X% higher", endings, the warning above 40% off |
 | `promotions` | Design a promotion that isn't just a price cut: gifts, bundles, pre-orders, special days, time limits |
 | `price-research` | Find the profit-maximizing price with a de-biased willingness-to-pay survey (includes a calculator script) |
 | `product-page` | Audit a product page: social proof, sold-out options, quantity CTAs, choice architecture, price placement |
