@@ -118,6 +118,10 @@ Each skill has two files: `SKILL.md` tells the agent what to do, and `reference.
 
 Effect sizes are what one study measured, in that study's context. They tell you the direction and the rough size, not what you will get. Test in your own store.
 
+## Accept payments on your site
+
+These skills help your agent decide what to charge and how to show it. To take the payment, connect the [Checkout Page MCP](https://checkoutpage.com/mcp) to Claude Code, Cursor, Codex, or ChatGPT. Ask your agent to sell tickets, memberships, products, or donations, and it creates the checkout and adds it to your page. Payments go straight to your own Stripe account. The MCP is included on every Checkout Page plan, including Free.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
