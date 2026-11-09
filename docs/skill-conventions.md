@@ -8,7 +8,6 @@ Applies to every skill in `skills/`. `skills/discounts/` is the exemplar — mat
 skills/<name>/
   SKILL.md       # the procedure; roughly 600–1100 words by wc -w (tables count)
   reference.md   # the evidence; one entry per finding
-  scripts/       # only if there is something to compute
 ```
 
 ## SKILL.md
