@@ -41,7 +41,7 @@ Start here if you have a number you want to move. Each skill returns a ranked li
 | [pricing](skills/pricing/) | Choose a price: rounded or .99, flat rates, add-ons, where to show it |
 | [discounts](skills/discounts/) | Word and size a discount or coupon: $ or %, "was X% higher", when a discount is too deep |
 | [promotions](skills/promotions/) | Design a promotion that isn't a price cut: gifts, bundles, pre-orders, deadlines |
-| [price-research](skills/price-research/) | Find the most profitable price with a customer survey (includes a calculator) |
+| [price-research](skills/price-research/) | Find the most profitable price with a customer survey |
 | [product-page](skills/product-page/) | Audit a product page: social proof, sold-out options, quantity buttons, price placement |
 | [checkout-ux](skills/checkout-ux/) | Audit cart and checkout: guest checkout, fields, wallets, totals, coupon fields, errors |
 | [product-copy](skills/product-copy/) | Write or rewrite product descriptions |
